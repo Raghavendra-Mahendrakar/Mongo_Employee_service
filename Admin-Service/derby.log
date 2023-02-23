@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Wed Feb 08 17:07:29 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-30d0-ffe1-000001bdeca0 
+on database directory memory:D:\MongoEmp_Admin-service\admin_Service\admin_Service\b4e46f58-8968-426c-ba9c-2be2ddb25225 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4d7e1886 
+Loaded from file:/C:/Users/LENOVO/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=19.0.2+7-44
+user.dir=D:\MongoEmp_Admin-service\admin_Service\admin_Service
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Wed Feb 08 17:07:30 IST 2023:
+Shutting down instance a816c00e-0186-30d0-ffe1-000001bdeca0 on database directory memory:D:\MongoEmp_Admin-service\admin_Service\admin_Service\b4e46f58-8968-426c-ba9c-2be2ddb25225 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4d7e1886 
